@@ -1,0 +1,14 @@
+layout_spectrum: 0.7323311413638294
+typography_spectrum: 0.9511807893868536
+color:
+  brandStrength: 0.8303804041352123
+  lightness: 0.7974751954898238
+  saturation: 0.6142169225495309
+  rhythmicContrast: 0.4624023581854999
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+name: cooking stones
